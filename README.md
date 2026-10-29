@@ -64,6 +64,85 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-BridgeU is a company surfaced as a portfolio company of seedcamp and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+BridgeU is an education technology company providing a university and careers guidance platform for international schools. Used by more than 1,200 partner schools across 150+ countries, the platform helps students from Grade 9 onward explore careers, research over 26,000 global universities, build shortlists, and manage applications in one connected system, with analytics dashboards for counsellors and AI-assisted guidance. BridgeU is a Seedcamp portfolio company and is tracked in the API Evangelist network. It publishes no public developer API, OpenAPI, or well-known discovery surface as of this enrichment pass; integration with school systems (for example ManageBac+) is handled via partner single sign-on rather than an openly documented API.
 
-Backed by: seedcamp — http://bridge-u.com
+**Areas:** Company · Education · EdTech · University Guidance · Careers Guidance · Student Success · International Schools · Software-as-a-Service
+
+## BridgeU on APIs.io
+
+Everything profiled for BridgeU is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/bridgeu/](https://apis.io/providers/bridgeu/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Bridgeu Domain Security](https://apis.io/security/bridgeu/bridgeu-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://bridge-u.com)
+- [Sign up](https://app.bridge-u.com/)
+- [Support](https://help.bridge-u.com/hc/en-gb)
+- [Blog](https://bridge-u.com/resources/)
+- [Terms of service](https://bridge-u.com/terms/)
+- [Privacy policy](https://bridge-u.com/privacy/)
+- [GitHub](https://github.com/BridgeU)
+
+## API Evangelist rating
+
+**Kin Score 12.7** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 34.2 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 13.7** — Education & Research
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/bridgeu/](https://apis.io/providers/bridgeu/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for BridgeU: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/bridgeu/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
